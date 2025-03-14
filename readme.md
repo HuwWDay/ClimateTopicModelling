@@ -15,4 +15,4 @@ Code and instructions for applying [BERTopic Topic Modelling](https://maartengr.
 ## TopicModellingWithBERT.pptx
 - Slide deck for a talk Huw gave to the Bristol Climate group on 13/11/2024.
 - Tried to keep text sparse on the slides but more denser in the notes so you can follow along!
-- Recording of the Zoom talk can be found [here](https://bristol-ac-uk.zoom.us/rec/play/it1e_jdSi60M_9qBQY83W4VEceIC2mUWaJ-tjiEgEfu2jlN777YLeA_o7lPb2lnymRaK2hQyww4Z-g-q.WtNUX3wVk4mYSRp_?canPlayFromShare=true&from=share_recording_detail&startTime=1731492541000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fbristol-ac-uk.zoom.us%2Frec%2Fshare%2Ft8_guVy18oUjCLJ3wqs4la1jZJT_BI1hpwDZHw7wraS9Bw1QQ6JxaNJzl4hsPBNY.w4cDp3zrSpNpJrFq%3FstartTime%3D1731492541000)
+- Recording of the Zoom talk can be found on the JGI YouTube channel [here](https://www.youtube.com/watch?v=FgGHL4pCZ5I)
